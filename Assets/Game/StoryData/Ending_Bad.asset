@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5f7aa0e0edd1904d9e26c8879c53cb2, type: 3}
+  m_Name: Ending_Bad
+  m_EditorClassIdentifier: 
+  nodeID: ending_bad
+  characterName: 
+  dialogueText: 
+  backgroundSprite: {fileID: 0}
+  backgroundMusic: {fileID: 0}
+  dialogueSFX: {fileID: 0}
+  nodeType: 2
+  choices: []
+  nextNode: {fileID: 0}
+  endingType: 2
+  endingTitle: BYSTANDER EFFECT
+  endingDescription: 'Diam atau ikut-ikutan hanya memperburuk keadaan. Raka akhirnya
+    pindah sekolah dan mengalami trauma berkepanjangan. Ingat: diam saat melihat
+    ketidakadilan sama dengan mendukungnya.'
+  scoreValue: 0
+  setFlags: []

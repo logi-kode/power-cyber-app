@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5f7aa0e0edd1904d9e26c8879c53cb2, type: 3}
+  m_Name: Node_005A_Pilihan2
+  m_EditorClassIdentifier: 
+  nodeID: node_005A
+  characterName: Kamu
+  dialogueText: Ancaman itu bikin deg-degan. Tapi Raka butuh bantuan. Langkah apa
+    yang kamu ambil selanjutnya?
+  backgroundSprite: {fileID: 0}
+  backgroundMusic: {fileID: 0}
+  dialogueSFX: {fileID: 0}
+  nodeType: 0
+  choices:
+  - choiceText: Laporkan akun ke guru dan platform sosmed
+    targetNode: {fileID: 11400000, guid: 240f63e7518a9614b8cc2f02d4688dab, type: 2}
+    scoreModifier: 20
+    requiredFlags: []
+    setFlags: []
+    choiceHint: 0
+  - choiceText: Hapus komentar belaanku karena takut
+    targetNode: {fileID: 11400000, guid: cce41c362cae7d445bdf4b2777c52ff3, type: 2}
+    scoreModifier: -10
+    requiredFlags: []
+    setFlags: []
+    choiceHint: 1
+  nextNode: {fileID: 0}
+  endingType: 0
+  endingTitle: 
+  endingDescription: 
+  scoreValue: 0
+  setFlags: []

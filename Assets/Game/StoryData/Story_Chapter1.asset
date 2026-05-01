@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dee01211a39d594cac1953339358182, type: 3}
+  m_Name: Story_Chapter1
+  m_EditorClassIdentifier: 
+  storyID: chapter1
+  storyTitle: Pesan yang Menyakitkan
+  storySynopsis: 
+  startNode: {fileID: 11400000, guid: 58558cbefb1ca1841bfd0f75cdfdef21, type: 2}
+  goodEndingNode: {fileID: 11400000, guid: 5e42e59b50d67ac47ba942225674af99, type: 2}
+  badEndingNode: {fileID: 11400000, guid: 233144eabe769c940ace37307d05e36a, type: 2}
+  goodEndingThreshold: 60
+  allNodes: []
