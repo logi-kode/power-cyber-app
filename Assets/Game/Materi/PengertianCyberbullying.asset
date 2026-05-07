@@ -16,4 +16,4 @@ MonoBehaviour:
   isiKonten: 'Cyberbullying (perundungan dunia maya) ialah bullying/perundungan dengan
     menggunakan teknologi digital. Hal ini dapat terjadi di media sosial, platform
     chatting, platform bermain game, dan ponsel. '
-  ilustrasi: {fileID: 0}
+  ilustrasi: {fileID: 21300000, guid: c4478c88f6c22144cbeffb2206bb64d9, type: 3}

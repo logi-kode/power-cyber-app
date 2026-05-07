@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Game/Scenes/MainStory.unity
     guid: 9ffd622cc1648724cbe406036a328e93
+  - enabled: 1
+    path: Assets/Game/Scenes/MateriScene.unity
+    guid: b071d60495d5d26478d5d7a08fb1aae6
+  - enabled: 1
+    path: Assets/Game/Scenes/QuizScene.unity
+    guid: ec79e5b451a497b4d812b25da3c8caf3
   m_configObjects: {}

@@ -156,8 +156,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 190, y: -150}
-  m_SizeDelta: {x: -420, y: -300}
+  m_AnchoredPosition: {x: 140, y: -150}
+  m_SizeDelta: {x: -320, y: -300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &33728784
 MonoBehaviour:
@@ -1735,23 +1735,23 @@ MonoBehaviour:
   - {fileID: 11400000, guid: e66a6cce9a1bef949b99112849b72f61, type: 2}
   listPanel: {fileID: 1221468965}
   kontenPanel: {fileID: 2100885080}
-  listContainer: {fileID: 1544433347}
   materiButtonPrefab: {fileID: 8802141230093877560, guid: baf6418b63f4aca4bbf8053b5641dc95, type: 3}
+  progressBarContainer: {fileID: 734306793}
+  listContainer: {fileID: 1544433347}
   buttonHeight: 80
   buttonSpacing: 30
   buttonPaddingTop: 20
   buttonPaddingLeft: 20
   buttonPaddingRight: 20
+  fadeDuration: 0.5
   judulKontenText: {fileID: 33728784}
   isiKontenText: {fileID: 2055473709}
+  progressPercentText: {fileID: 1832422143}
   ilustrasiImage: {fileID: 907474925}
+  progressBarFill: {fileID: 232844106}
   kontenCanvasGroup: {fileID: 2100885082}
   scrollRect: {fileID: 1821409581}
   backButton: {fileID: 1679836761}
-  progressBarContainer: {fileID: 734306793}
-  progressBarFill: {fileID: 232844106}
-  progressPercentText: {fileID: 1832422143}
-  fadeDuration: 0.5
 --- !u!4 &1660541093
 Transform:
   m_ObjectHideFlags: 0
